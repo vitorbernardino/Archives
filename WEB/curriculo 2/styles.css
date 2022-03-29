@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    width: 60%;
+    background: #7f7f7f;
+    color: #fff;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.header-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1a1a1a ;
+    width: 60%;
+    margin: 0 auto;
+    line-height: 50px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 600;
+}
